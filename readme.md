@@ -7,3 +7,6 @@ The library will be downloaded after the commands ```composer install``` or ```c
 ``` bash
 composer run download-ton-sdk-library
 ```
+
+Read about filters here https://docs.ton.dev/86757ecb2/p/30eb5e-query-language
+Scalar filters
